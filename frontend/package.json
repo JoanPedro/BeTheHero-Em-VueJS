@@ -16,7 +16,7 @@
     "highlight.js": "^9.16.1",
     "jquery": "^3.4.1",
     "liquor-tree": "0.2.7",
-    "minimist": ">=1.2.2",
+    "minimist": ">=1.2.6",
     "react-icons": "^3.9.0",
     "vue": "^2.6.11",
     "vue-feather-icon": "^1.2.0",
